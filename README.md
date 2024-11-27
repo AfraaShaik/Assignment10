@@ -74,3 +74,8 @@ The program provides the following commands:
 
 ### 8. Exit
 - Select **8** to exit the system.
+  
+### Sample Output
+
+![image](https://github.com/user-attachments/assets/ca009530-b25c-4c3a-bdf6-f54c128dabe9)
+
